@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageWeeklyVideogameSalesForm", "AverageWeeklyVideogameSalesForm\AverageWeeklyVideogameSalesForm.csproj", "{340545F8-6F45-4F6B-83B1-2FE5D41A36CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340545F8-6F45-4F6B-83B1-2FE5D41A36CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340545F8-6F45-4F6B-83B1-2FE5D41A36CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340545F8-6F45-4F6B-83B1-2FE5D41A36CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340545F8-6F45-4F6B-83B1-2FE5D41A36CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E1ACCD-8961-43E9-9C34-721BC42AA7CF}
+	EndGlobalSection
+EndGlobal
